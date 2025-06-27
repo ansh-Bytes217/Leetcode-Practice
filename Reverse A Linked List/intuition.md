@@ -29,3 +29,7 @@ Reverse the pointer: curr.next = prev
 Move prev to curr, and curr to next
 
 When curr becomes null, prev is the new head
+
+Time: O(n) — we visit each node once
+
+Space: O(1) — constant space used
