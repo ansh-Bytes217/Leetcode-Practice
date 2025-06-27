@@ -2,6 +2,7 @@ Intuition: Reverse a Linked List (LeetCode #206)
 You're given the head of a singly linked list, and you need to reverse it — that is, make the list go in the opposite direction.
 
  Key Insight
+ 
 A linked list only stores a reference to the next node, so to reverse it, we need to:
 
 Change the direction of all next pointers
