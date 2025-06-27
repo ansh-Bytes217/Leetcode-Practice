@@ -22,4 +22,8 @@ Move it to the lastNonZeroIndex
 
 Increment lastNonZeroIndex
 
+Time: O(n) — each element is visited once
+
+Space: O(1) — in-place, no extra space
+
 After moving all non-zeros, fill the rest of the array with 0s
